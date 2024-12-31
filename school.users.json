@@ -36,56 +36,6 @@
 },
 {
   "_id": {
-    "$oid": "670df3b6ccc16cc87ce2b86f"
-  },
-  "email": "khoatranpc603@gmail.com",
-  "address": "Ninh Bình",
-  "dob": {
-    "$date": "2001-12-20T17:00:00.000Z"
-  },
-  "name": "Trần Đăng Khoa",
-  "identity": "037201004654",
-  "phoneNumber": "0353923603",
-  "role": "TEACHER",
-  "isDeleted": false,
-  "accountId": {
-    "$oid": "670df090fe5b5fe84d8e6463"
-  },
-  "createdAt": {
-    "$date": "2024-10-15T04:46:46.337Z"
-  },
-  "updatedAt": {
-    "$date": "2024-10-15T04:46:46.337Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "670e49519b361ae928a5c6ed"
-  },
-  "email": "huongtrinh603@gmail.com",
-  "address": "Huyện Yên Mô, Tỉnh Ninh Bình",
-  "dob": {
-    "$date": "2001-07-22T17:00:00.000Z"
-  },
-  "name": "Trịnh Thị Thu Hương",
-  "identity": "0987654321",
-  "phoneNumber": "0357016576",
-  "role": "TEACHER",
-  "isDeleted": false,
-  "accountId": {
-    "$oid": "670e49519b361ae928a5c6eb"
-  },
-  "createdAt": {
-    "$date": "2024-10-15T10:52:01.404Z"
-  },
-  "updatedAt": {
-    "$date": "2024-10-15T10:52:01.404Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
     "$oid": "670e4b9d9b361ae928a5c72f"
   },
   "email": "trantrungtruc@school.edu.vn",
